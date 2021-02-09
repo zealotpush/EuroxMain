@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Eurox</string>
+    <string name="asset_statements">
+    [{
+        \"relation\":[\"delegate_permission/common.handle_all_urls\"],
+        \"target\":{
+            \"namespace\":\"web\",
+            \"site\":\"http://ibizweb.iptime.org:61160"
+        }
+    }]
+    </string>
+</resources>
